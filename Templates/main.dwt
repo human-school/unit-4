@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<h3></h3>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>kodu is bad don't use it</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body bgcolor = "black">
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="134" height="111" valign="top"><a href="../index.php"><img src="../images/game-codeorg-logo-technology-computer-science-removebg-preview.png" alt="home" width="144" height="121" title="home"/></a></td>
+      <td width="1410">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="1548" valign="top"><p><a href="../index.php"><img src="../images/home.png" alt="home" width="150" height="80
+	 " title="home" border="0"/></a></p>
+      <p><a href="../download_page.php"><img src="../images/download.png" width="150" height="80" alt="download" title="download"/></a></p></td>
+      <td valign="top" style="color: #FFFFFF"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
